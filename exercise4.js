@@ -1,0 +1,10 @@
+var flag = false;
+console.log("Value assigned to flag is: " + flag);
+var decimal = 6;
+console.log("the decimal number is:" + decimal);
+var hex = 0xf00d;
+console.log("the hex number is: " + hex);
+var binary = 10;
+console.log("the binary number is: " + binary);
+var octal = 484;
+console.log("the octal number is: " + octal);
